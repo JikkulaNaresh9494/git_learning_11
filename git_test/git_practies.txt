@@ -1,0 +1,5 @@
+mkdir <input directory name without brackets> - Makes a new directory (be careful, you will have to cd into the directory after you make it)
+
+rm -r <input directory name without brackets> - Removes a directory and everything inside it
+
+git clone <link to repo without brackets> - Clones the repository into the directory you are currently browsing.
